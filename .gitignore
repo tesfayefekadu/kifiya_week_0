@@ -1,4 +1,8 @@
 data
 notebooks/.ipynb_checkpoints/benin data/cleaned_data.csv
 notebooks/.ipynb_checkpoints/benin data/data_with_zscores.csv
-streamlit
+benin over time.png
+corr togo.png
+sieralion.png
+test.py
+togo.png
